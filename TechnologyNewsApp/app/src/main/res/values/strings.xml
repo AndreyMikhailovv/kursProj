@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Новости в электронике</string>
+
+    <string name="textViewLinkTNews">ЧИТАТЬ ДАЛЕЕ...</string>
+
+    <string name="textViewTitBoldTNews">Text</string>
+    <string name="textViewTitTNews">Text</string>
+    <string name="textViewTNews">Text</string>
+
+</resources>
